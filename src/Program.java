@@ -15,8 +15,8 @@ public class Program {
 
         }
 
-        for (int x = imiona.length - 1; x >= 0 ; --x) {
-            System.out.println("Cześć" + " " + imiona[x]);
+        for (int i = imiona.length - 1; i >= 0 ; --i) {
+            System.out.println("Cześć" + " " + imiona[i]);
 
 
         }
